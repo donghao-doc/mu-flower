@@ -1,0 +1,36 @@
+.nav-list {
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  border-radius: 18rpx;
+  padding: 10px 0;
+  margin: 20rpx 0;
+
+  .nav-item {
+    width: 20%;
+
+    &.small {
+      margin-top: 36rpx;
+    }
+
+    .navigator-nav {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+
+      .nav-text {
+        font-size: 12px;
+        margin-top: 4px;
+      }
+
+      .nav-img {
+        width: 66rpx;
+        height: 66rpx;
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+.goods_title {
+  color: #232628;
+  font-size: 40rpx;
+  font-weight: bold;
+  text-align: center;
+  line-height: 52rpx;
+  padding: 20rpx 0 0 0;
+}
+
+.goods_card_list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  &::after {
+    content: '';
+    width: 350rpx;
+  }
+}
+
+.goods_more {
+  margin: 20rpx 0;
+
+  &_btn {
+    display: block;
+    color: rgba(35, 38, 40, 0.7);
+    font-size: 14px;
+    height: 80rpx;
+    background: #ffffff;
+    border-radius: 20px;
+    line-height: 40px;
+    text-align: center;
+    margin: 0 auto;
+  }
+}
