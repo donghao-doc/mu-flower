@@ -1,0 +1,27 @@
+{
+  "name": "mu-flower",
+  "version": "0.0.1",
+  "description": "慕尚花坊小程序",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/donghao-doc/mu-flower.git"
+  },
+  "keywords": [
+    "小程序",
+    "miniprogram",
+    "慕尚花坊"
+  ],
+  "author": "BarryDong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donghao-doc/mu-flower/issues"
+  },
+  "homepage": "https://github.com/donghao-doc/mu-flower#readme",
+  "dependencies": {
+    "@vant/weapp": "^1.11.6"
+  }
+}
