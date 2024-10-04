@@ -4,7 +4,8 @@
     "pages/category/category",
     "pages/cart/cart",
     "pages/my/my",
-    "pages/address/add/add"
+    "pages/address/add/add",
+    "pages/address/list/list"
   ],
   "window": {
     "navigationBarTitleText": "慕尚花坊",
