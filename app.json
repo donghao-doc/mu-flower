@@ -6,7 +6,8 @@
     "pages/my/my",
     "pages/address/add/add",
     "pages/address/list/list",
-    "pages/login/login"
+    "pages/login/login",
+    "pages/settings/settings"
   ],
   "window": {
     "navigationBarTitleText": "慕尚花坊",
